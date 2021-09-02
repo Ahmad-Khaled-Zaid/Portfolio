@@ -80,9 +80,9 @@ class Landing extends React.Component {
                 <div className="col px-0">
                   <Row>
                     <Col lg="6">
-                      <h1 className="display-3 text-white">
+                      <h2 className="display-3 text-white">
                         Background and Projects {" "}
-                      </h1>
+                      </h2>
                       <p className="lead text-white">
                         Here you will find the projects for software development course
                       </p>
