@@ -192,8 +192,8 @@ class Landing extends React.Component {
                           <div className="icon icon-shape icon-shape-warning rounded-circle mb-4">
                             <i className="ni ni-planet" />
                           </div>
-                          <h6 className="text-warning text-uppercase">
-                            401 Project                          </h6>
+                          <h5 className="text-warning text-uppercase">
+                            401 Project                          </h5>
                           <p className="description mt-3">
                           </p>
                           <div>
