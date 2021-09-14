@@ -126,7 +126,7 @@ class DemoNavbar extends React.Component {
                           </div>
                           <Media body className="ml-3">
                             <h6 className="heading text-primary mb-md-1">
-                              Getting started
+                              Getting startedd
                             </h6>
                             <p className="description d-none d-md-inline-block mb-0">
                               
